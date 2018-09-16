@@ -1,5 +1,7 @@
 Whacked Blocks: Wyrocznia <–> Rejestr zastawów 
 
+prezentacja: https://slides.com/net_runner/deck#/
+
 ------------------------------------------------------------------------------------------------------------------------------------- 
 
 Legenda: 
