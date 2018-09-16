@@ -1,0 +1,5 @@
+jsonrpc==1.2
+py_solc==3.1.0
+requests==2.19.1
+Werkzeug==0.14.1
+web3==4.7.1
